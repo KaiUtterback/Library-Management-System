@@ -675,13 +675,13 @@ def convert_json_to_objects(data, cls, books=None):
                 ))
             elif cls == Author:
                 result.append(Author(
-                    name=item['name'],
-                    biography=item['biography']
+                    name=item['_name'],
+                    biography=item['_biography']
                 ))
             elif cls == Genre:
                 result.append(Genre(
-                    name=item['name'],
-                    description=item['description']
+                    name=item['_name'],
+                    description=item['_description']
                 ))
         except KeyError as e:
             print(f"Key error: {str(e)} - Missing key in data item {item}")
