@@ -1,0 +1,66 @@
+[
+    {
+        "_title": "To Kill a Mockingbird",
+        "_author": "Harper Lee",
+        "_isbn": "9780060935467",
+        "_genre": "Fiction",
+        "_publication_date": "1960-07-11",
+        "_availability": "Available"
+    },
+    {
+        "_title": "1984",
+        "_author": "George Orwell",
+        "_isbn": "9780451524935",
+        "_genre": "Dystopian",
+        "_publication_date": "1949-06-08",
+        "_availability": "Available"
+    },
+    {
+        "_title": "Brief History of Time",
+        "_author": "Stephen Hawking",
+        "_isbn": "9780553380163",
+        "_genre": "Science",
+        "_publication_date": "1988-04-01",
+        "_availability": "Available"
+    },
+    {
+        "_title": "The Great Gatsby",
+        "_author": "F. Scott Fitzgerald",
+        "_isbn": "9780743273565",
+        "_genre": "Historical Fiction",
+        "_publication_date": "1925-04-10",
+        "_availability": "Available"
+    },
+    {
+        "_title": "The Catcher in the Rye",
+        "_author": "J.D. Salinger",
+        "_isbn": "9780316769488",
+        "_genre": "Fiction",
+        "_publication_date": "1951-07-16",
+        "_availability": "Borrowed"
+    },
+    {
+        "_title": "Pride and Prejudice",
+        "_author": "Jane Austen",
+        "_isbn": "9780679783268",
+        "_genre": "Romance",
+        "_publication_date": "1813-01-28",
+        "_availability": "Available"
+    },
+    {
+        "_title": "Moby Dick",
+        "_author": "Herman Melville",
+        "_isbn": "9781503280786",
+        "_genre": "Adventure",
+        "_publication_date": "1851-10-18",
+        "_availability": "Available"
+    },
+    {
+        "_title": "The Hobbit",
+        "_author": "JRR Tolkien",
+        "_isbn": "9780547928227",
+        "_genre": "Fantasy",
+        "_publication_date": "1937-09-21",
+        "_availability": "Borrowed"
+    }
+]

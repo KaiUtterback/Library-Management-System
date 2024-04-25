@@ -1,0 +1,42 @@
+[
+    {
+        "_name": "Fiction",
+        "_description": "Fiction is any narrative that is derived from the imagination\u00e2\u20ac\u201din other words, not based strictly on history or fact."
+    },
+    {
+        "_name": "Dystopian",
+        "_description": "Dystopian fiction offers a vision of the future. Dystopias are typically characterized by dehumanization, totalitarian governments, environmental disaster, or other characteristics associated with a cataclysmic decline in society."
+    },
+    {
+        "_name": "Science",
+        "_description": "Science books explore the physical and natural world through observation and experimentation, covering subjects like physics, biology, and chemistry."
+    },
+    {
+        "_name": "Historical Fiction",
+        "_description": "Historical fiction is a literary genre in which the plot takes place in a setting located in the past, often during significant historical events."
+    },
+    {
+        "_name": "Mystery",
+        "_description": "Mystery fiction is a genre of fiction usually involving a mysterious death or a crime to be solved."
+    },
+    {
+        "_name": "Romance",
+        "_description": "Romance novels are centered around the relationship and romantic love between two people, and the plot may have a variety of settings and climaxes, but always ends optimistically."
+    },
+    {
+        "_name": "Adventure",
+        "_description": "Adventure fiction is a genre of fiction that usually presents danger, or gives the reader a sense of excitement."
+    },
+    {
+        "_name": "Fantasy",
+        "_description": "Fantasy is a genre of speculative fiction set in a fictional universe, often inspired by real world myth and folklore."
+    },
+    {
+        "_name": "Biography",
+        "_description": "A biography is a detailed description or account of someone's life, containing factual details as well as stories from the subject's life."
+    },
+    {
+        "_name": "Children",
+        "_description": "Children's literature is for readers and listeners up to about age 12 and is often illustrated, and features themes of adventure, fantasy, and friendship."
+    }
+]

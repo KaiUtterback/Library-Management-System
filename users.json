@@ -1,0 +1,67 @@
+[
+    {
+        "_name": "Alice Johnson",
+        "_library_id": "1001",
+        "_borrowed_books": [
+            {
+                "_title": "Pride and Prejudice",
+                "_author": "Jane Austen",
+                "_isbn": "9780679783268",
+                "_genre": "Romance",
+                "_publication_date": "1813-01-28",
+                "_availability": "Available"
+            }
+        ]
+    },
+    {
+        "_name": "Bob Smith",
+        "_library_id": "1002",
+        "_borrowed_books": []
+    },
+    {
+        "_name": "Catherine Zeta",
+        "_library_id": "1003",
+        "_borrowed_books": []
+    },
+    {
+        "_name": "David Tennant",
+        "_library_id": "1004",
+        "_borrowed_books": [
+            {
+                "_title": "To Kill a Mockingbird",
+                "_author": "Harper Lee",
+                "_isbn": "9780060935467",
+                "_genre": "Fiction",
+                "_publication_date": "1960-07-11",
+                "_availability": "Available"
+            },
+            {
+                "_title": "The Hobbit",
+                "_author": "JRR Tolkien",
+                "_isbn": "9780547928227",
+                "_genre": "Fantasy",
+                "_publication_date": "1937-09-21",
+                "_availability": "Borrowed"
+            }
+        ]
+    },
+    {
+        "_name": "Evelyn Rose",
+        "_library_id": "1005",
+        "_borrowed_books": [
+            {
+                "_title": "The Catcher in the Rye",
+                "_author": "J.D. Salinger",
+                "_isbn": "9780316769488",
+                "_genre": "Fiction",
+                "_publication_date": "1951-07-16",
+                "_availability": "Borrowed"
+            }
+        ]
+    },
+    {
+        "_name": "Frank Castle",
+        "_library_id": "1006",
+        "_borrowed_books": []
+    }
+]
